@@ -1,3 +1,3 @@
 clear
 TestGitHub
-testGithub is about me and my life
+This is about my laptop
